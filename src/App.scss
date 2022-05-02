@@ -1,0 +1,21 @@
+
+.bold{
+  font-size: 24px;
+  font-weight: 600;
+  color: rgb(0, 0, 0);
+}
+.pointer{
+  cursor: pointer;
+}
+.whiteText{
+  color: white;
+}
+.button{
+  background-color: dimgray;
+  border-radius: 12px;
+  color: white;
+  min-width: 100px;
+  text-align: center;
+  padding:5px 12px;
+  width: fit-content;
+}
